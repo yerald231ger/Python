@@ -10,7 +10,7 @@ while exit_code == 1:
         print("You can ride the rollercoaster")
         if age >= 55:
             bill = 5
-        elif age >= 12 and age <= 15:
+        elif 12 <= age <= 15:
             bill = 3
         elif age < 18:
             bill = 7
