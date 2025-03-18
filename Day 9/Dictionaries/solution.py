@@ -22,6 +22,7 @@ programming_dictionary["Bug"] = "A moth in your computer."
 # print(programming_dictionary)
 
 # Loop through a dictionary
+print("-------------------")
 for key in programming_dictionary:
     print(key)
     print(programming_dictionary[key])
