@@ -10,8 +10,7 @@
       "request": "launch",
       "program": "${file}",
       "console": "integratedTerminal",
-      "justMyCode": true,
-      "cwd": "${workspaceFolder}/day-25.csv" // Set this to the directory containing your CSV file
+      "justMyCode": true // Set this to the directory containing your CSV file
     }
   ]
 }
